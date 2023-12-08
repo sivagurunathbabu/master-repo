@@ -1,0 +1,1 @@
+java -Dspring.config.location=.\config\application-staging.properties -jar recipe-management-1.0.jar
